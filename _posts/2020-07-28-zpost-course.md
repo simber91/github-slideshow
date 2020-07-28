@@ -1,3 +1,8 @@
+---
+layout: slide
+title: "BIKES!"
+---
+
 ### Different 
 #### Downhill
 
